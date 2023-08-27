@@ -19,8 +19,9 @@ Aquí se coloca el valor de la propiedad que se desea modificar o cambiar.
 
 ***
 
-### Comentario: 
-En este lenguaje un comentarios se escribe de la siguiente forma
+> [!NOTA]
+> Comentario: 
+>En este lenguaje un comentarios se escribe de la siguiente forma
 ~~~
   /* ( Aquí va lo que quiera comentar ) */.
 ~~~
