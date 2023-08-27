@@ -2,4 +2,5 @@
 
 <h1> CURSO DE CSS3 </h1> <br>
 
-### Este repositorio es un breve repaso para ir adquirirendo nuevo conocimiento
+### Este repositorio es un breve repaso para ir adquirirendo nuevo conocimiento de CSS (Cascading Style Sheets)  hojas de estilo en cascada en español, este lenguaje de diseño se utiliza para definir la presentación y el diseño de los documentos, con este se puede controlar la apariencia de los elementos de una página web, como los colores, la tipografía, el espaciado, los bordes entre otros.
+
