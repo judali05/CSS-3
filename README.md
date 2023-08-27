@@ -4,9 +4,9 @@
 
 ### :beginner: Este repositorio es un breve repaso para ir adquiriendo nuevo conocimiento de CSS (Cascading Style Sheets)  hojas de estilo en cascada en español, este lenguaje de diseño se utiliza para definir la presentación y el diseño de los documentos, con este se puede controlar la apariencia de los elementos de una página web, como los colores, la tipografía, el espaciado, los bordes entre otros   :art:.  <br><br>
 ***
-### - <a href="https://github.com/judali05/CSS-3/blob/main/RUTA/1%23%20SINTAXIS.md">SINTAXIS</a>
-### - <a href="">COMO APLICAR ESTILOS?</a>
-### - <a href=""></a>
+### - <a href="https://github.com/judali05/CSS-3/blob/main/RUTA/1%23%20SINTAXIS.md">1# SINTAXIS</a>
+### - <a href="">2# COMO APLICAR ESTILOS?</a>
+### - <a href="">3# </a>
 ### - <a href=""></a>
 ### - <a href=""></a>
 ### - <a href=""></a>
