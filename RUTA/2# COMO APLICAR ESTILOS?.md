@@ -1,4 +1,4 @@
-# COMO APLICAR ESTILOS
+# COMO APLICAR ESTILOS :pencil:
 Hay tres formas de aplicar estilos CSS estos son en línea en una etiqueta HTML, incrustado en la cabecera de un doucmento HTML o mediante hojas de estilo externas.
 
 ## CSS EN LÍNEA:
