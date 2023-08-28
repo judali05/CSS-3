@@ -22,7 +22,7 @@ Aquí se coloca el valor de la propiedad que se desea modificar o cambiar.
 > [!NOTE]
 > Comentario: <br>
 >En este lenguaje un comentarios se escribe de la siguiente forma <br>
- `/* ( Aquí va lo que quiera comentar ) */`
+ `/* (Aquí va lo que se comente) */`
 
 
 
