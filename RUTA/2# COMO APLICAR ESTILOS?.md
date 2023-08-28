@@ -62,5 +62,5 @@ h1 {
 > [!NOTE]
 > Este es el método más eficiente y más sencillo de mantener ya que el código CSS se encuentra separado del fichero HTML.
 
-
-
+<br>
+<br>
