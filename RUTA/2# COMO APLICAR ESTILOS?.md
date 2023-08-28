@@ -5,7 +5,7 @@ Hay tres formas de aplicar estilos CSS estos son en línea en una etiqueta HTML,
 Estas declaraciones CSS están incrustadas en las etiquetas HTML por medio del atributo  `style`.
 
 ~~~
-<h1 style="color:blue">Hola Mundo</p>
+<h1 style="color:blue">Hola Mundo</h1>
 ~~~
 
 > [!NOTE]
@@ -21,10 +21,10 @@ En este caso el estilo se agrega dentro de la etiqueta `<head>`  con la etiqueta
 ~~~
 <html>
 <head>
-    <style> p { color: blue; } </style>
+    <style> h1 { color: blue; } </style>
 </head> 
 <body>
-     <p>Hola Mundo</p>
+     <h1>Hola Mundo</h1>
 </body> 
 </html>
 ~~~
@@ -46,7 +46,7 @@ Index.html
     <link rel="stylesheet" href="styles.css">
 </head> 
 <body>
-     <p>Hola Mundo</p>
+     <h1>Hola Mundo</h1>
 </body> 
 </html>
 
@@ -54,7 +54,7 @@ Index.html
 
 Style.css
 ~~~
-p { 
+h1 { 
   color: blue; 
 }
 ~~~
