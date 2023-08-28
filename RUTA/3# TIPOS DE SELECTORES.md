@@ -1,4 +1,4 @@
-# TIPOS DE SELECTORES
+# :page_with_curl: TIPOS DE SELECTORES 
 Los selectores nos ayudan a indicar el elemento que vamos a modificar. Los selectores pueden apuntar a etiquetas específicos, clases, identificadores o incluso atributos de una etiqueta. <br>
  * Existen muchos tipos de selectores y algunos de los más destacados son los siguientes.
 
