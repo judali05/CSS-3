@@ -1,17 +1,17 @@
-# Unidades de medida
+#  :100: Unidades de medida
 En CSS, hay varias unidades de medida que puedes utilizar para especificar tamaños y dimensiones de elementos en tu documento. 
 
 ## Unidades absolutas
 Las unidades absolutas son aquellas que mantiene su aspecto independientemente en el dispositivo en el que se encuentre
 
 
-| unidad | representación                                 |
+| unidad | representación |
 |---|---|
-| in	| Pulgadas (1 pulgada = 2.54 cm) |
-| cm	| Centímetros | 
-| mm	| Milímetros |
-| pt	| Puntos (1 pt = 1/72 pulgadas) |
-| pc	| Picas (1 pica = 12 puntos) |
+| in	| `Pulgadas` (1 pulgada = 2.54 cm) |
+| cm	| `Centímetros` | 
+| mm	| `Milímetros` |
+| pt	| `Puntos` (1 pt = 1/72 pulgadas) |
+| pc	| `Picas` (1 pica = 12 puntos) |
 
 
 
