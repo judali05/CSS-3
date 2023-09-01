@@ -1,6 +1,6 @@
 #  :art: COLORES Y FONDOS
 
-> [!IMPORTAN]
+> [!IMPORTANT]
 >Recuerda que una forma de añadir color a un elemento es utilizando el nombre del color en inglés, como black (negro), cyan (cian) o yellow (amarillo).
 
 Los valores de los colores se pueden definir mediante su nombre, en código hexadecimal (#RRGGBBAA) o mediante sus valores en los siguientes formatos:
