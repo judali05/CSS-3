@@ -16,6 +16,9 @@ Las unidades absolutas son aquellas que mantiene su aspecto independientemente e
 
 </div>
 
+> [!NOTE]
+> Es recomendable usar unidades relativas en la medida de lo posible, ya que mejora la accesibilidad de la página web ya que permiten que los documentos se adapten fácilmente a cualquier medio.
+
 ***
 
 ## UNIDADES RELATIVAS
@@ -32,6 +35,22 @@ Las unidades relativas son aquellas que se ajustan a cada tipo de dispositivo ya
 | fr	| `Flexible Grid Units` (fr) Se utiliza en Grid Layout y representa una fracción del espacio disponible en un contenedor |
 
 </div>
+
+ ### `Píxeles (px)`
+
+Es la unidad más utilizada y representa un punto en la pantalla. Se usa para tamaños fijos y proporciona control preciso sobre el diseño.
+
+### `Porcentaje (%)`
+
+Representa una proporción del tamaño del elemento padre. Es útil para hacer diseños fluidos y responsivos teniendo en cuenta la relación de los elementos con su contenedor padre.
+
+### `Viewport Width (vw) y Viewport Height (vh)`
+
+Representan un porcentaje del ancho y alto de la ventana del navegador, respectivamente. Son útiles para crear diseños responsive basados en el tamaño de la pantalla.
+
+### `Flexible Grid Units (fr)`
+
+Se utiliza en Grid Layout y representa una fracción del espacio disponible en un contenedor. Es útil para distribuir el espacio disponible entre elementos flexibles.
 
 <br>
 <br>
