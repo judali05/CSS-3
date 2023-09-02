@@ -127,12 +127,58 @@ Por ejemplo, en el gradiente que sigue, la transición del rojo al negro tiene l
 
 ***
 
+## OPACIDAD
+Opacity describe cuán opaco o no transparente es algo. Por ejemplo, una pared sólida es opaca y no puede pasar la luz. Pero un vaso para beber es mucho más transparente, y puedes ver a través del vaso hacia el otro lado.
 
+<br>
 
+Con la propiedad CSS opacity, puede controlar cuán opaco o transparente es un elemento. Con el valor 0, o 0%, el elemento será completamente transparente, y en 1.0, o 100%, el elemento será completamente opaco como lo es por defecto.
+<br>
+<div align="center">
 
+### `opacity: 0.5;`
 
-## RGBA
-Este agrega una A de Alpha, este representa el grado de transparencia u opacidad del color, este se coloca al final de los colores ( Rojo, Verde, Azul, opacidad ) El canal de opacidad se expresa mediante un valor entre cero y uno, siendo 0 totalmente transparente y 1 totalmente opaco. Todos los valores decimales entre el cero y el 1 expresan distintos grados de opacidad.
+</div>
+<br>
+
+## ALPHA
+Otra forma de establecer la opacidad de un elemento es con el canal alpha. Similar a la propiedad opacity, el canal alfa controla qué tan transparente u opaco es un color.
+
+<br>
+
+Ya has establecido la opacidad de la carátula con un color con nombre y la propiedad opacity, pero puedes agregar un canal alfa a las otras propiedades de color CSS.
+
+<br>
+
+Ya está familiarizado con el uso de la función rgb para establecer colores. Para agregar un canal alfa a un color rgb, use la función rgba en su lugar.
+
+<br>
+
+La función rgba funciona igual que la función rgb, pero toma un número más de 0 a 1.0 para el canal alfa:
+<br>
+<div align="center">
+
+### `rgba (rojo, verde, azul, alfa) = rgba (255 ,0 ,0 ,0,5)`
+
+</div>
+<br>
+También puedes utilizar un canal alfa con colores hsl. Para agregar un canal alfa a un color hsl, use la función hsla en su lugar.
+<br>
+<div align="center">
+
+### `hsla (matiz, saturación y luminosidad, alfa) = hsla (0, 100%, 50%, 0,5)`
+
+</div>
+<br>
+También puedes utilizar un canal alfa con colores hsl y hexadecimal. Para agregar un canal alfa a un color hex, se hace d la misma forma solo que se agrega un campo de mas al final no queda de 6 sino de 8 caracteres.
+<br>
+<div align="center">
+
+### `hex (rojo, verde, azul, alfa) = #FF0000CC `
+
+</div>
+<br>
+
 
 <br>
 <br>
