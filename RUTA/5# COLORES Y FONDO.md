@@ -179,6 +179,26 @@ También puedes utilizar un canal alfa con colores hsl y hexadecimal. Para agreg
 </div>
 <br>
 
+***
+
+## PROPIEDADES
+Algunas de las propiedades relacionadas con el color y el fondo más utilizadas son las siguientes:
+<br>
+<div align="center">
+  
+|Propiedad	|Descripción |
+|---|---|
+|`color`	|Color del texto |
+|`background-color`	|Color de fondo |
+|`background-image`	|Imagen de fondo |
+|`background-repeat`	|Repetición de la imagen de fondo |
+|`background-attachment`	|Desplazamiento de la imagen de fondo |
+|`background-position`	|Posición de la imagen de fondo |
+|`background-size`	|Tamaño de la imagen de fondo |
+|`Opacity`	|Transparencia de un elemento |
+
+</div>
+<br>
 
 <br>
 <br>
