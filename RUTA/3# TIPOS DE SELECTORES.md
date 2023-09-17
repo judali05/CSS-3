@@ -1,10 +1,18 @@
 # :page_with_curl: TIPOS DE SELECTORES 
 Los selectores nos ayudan a indicar el elemento que vamos a modificar. Los selectores pueden apuntar a etiquetas específicos, clases, identificadores o incluso atributos de una etiqueta. <br>
  * Existen muchos tipos de selectores y algunos de los más destacados son los siguientes.
+    * <a href="1"><h4> SELECTOR UNIVERSAL </h4></a>
+    * <a href="2"><h4> SELECTOR DE ETIQUETA </h4></a>
+    * <a href="3"><h4> SELECTOR DE CLASE </h4></a>
+    * <a href="4"><h4> SELECTOR IDENTIFICADOR </h4></a>
+    * <a href="5"><h4> SELECTOR DESCENDIENTE </h4></a>
+    * <a href="6"><h4> SELECTOR DE HIJOS </h4></a>
+    * <a href="7"><h4> SELECTOR DE HERMANOS ADYACENTES </h4></a>
+    * <a href="8"><h4> COMBINACIÓN DE SELECTORES </h4></a>
 
 <br>
 
-## SELECTOR UNIVERSAL
+<a name="1"><h2> SELECTOR UNIVERSAL </h2></a> 
 Este selector se usa cuando deseas aplicar un estilo a todos los elementos sin excepción. Es una forma rápida y sencilla de establecer que afectarán a todos los elementos en el documento.<br>
 * `Sintaxis:` * { atributo: valor; }
 ~~~
@@ -15,7 +23,7 @@ width: 0px;
 
 <br>
 
-## SELECTOR DE ETIQUETA
+<a name="2"><h2> SELECTOR DE ETIQUETA </h2></a> 
 El estilo se aplicará a todos las etiquetas con el mismo nombre por ejemplo la etiqueta `<h1>` .<br>
 * `Sintaxis:` etiqueta { atributo: valor; }
 ~~~
@@ -26,7 +34,7 @@ h1 {
 
 <br>
 
-## SELECTOR DE CLASE
+<a name="3"><h2> SELECTOR DE CLASE </h2></a>
 El estilo se aplicará a todos las clases con el mismo nombre por ejemplo  `<h1 class="titulo">` . <br>
 * `Sintaxis:` .clase { atributo: valor; }
 ~~~
@@ -37,7 +45,7 @@ color: blue;
 
 <br>
 
-## SELECTOR IDENTIFICADOR
+<a name="4"><h2> SELECTOR IDENTIFICADOR </h2></a>
 El estilo se aplicará a todos los valores ID con el mismo nombre por ejemplo `<p id="texto"> ` . <br> 
 * `Sintaxis:` #id { atributo: valor; }
 ~~~
@@ -48,7 +56,7 @@ color: blue;
 
 <br>
 
-## SELECTOR DESCENDIENTE
+<a name="5"><h2> SELECTOR DESCENDIENTE </h2></a>
 El estilo se aplicará a todas las etiquetas que esten entre las etiquetas de apertura y de cierre del elemeto hijo con el mismo nombre por ejemplo <br>
 `<di> <h2></h2> </div>` .<br><br>
 * `Sintaxis:` etiqueta_padre etiqueta_hijo { atributo: valor; }
@@ -60,7 +68,7 @@ div h2 {
 
 <br>
 
-## SELECTOR DE HIJOS
+<a name="6"><h2> SELECTOR DE HIJOS </h2></a>
 El estilo se aplicará a las etiquetas hijo que esten entre las etiquetas de apertura y de cierre del elemeto padre con el mismo nombre por ejemplo <br>
 `<di> <span> <span></spam> </spam> </div>` .<br><br>
 * `Sintaxis:` etiqueta_padre > etiqueta_hijo { atributo: valor; }
@@ -72,7 +80,7 @@ div > span {
 
 <br>
 
-## SELECTOR DE HERMANOS ADYACENTES
+<a name="7"><h2> SELECTOR DE HERMANOS ADYACENTES </h2></a>
 El estilo se aplicará a todos los primeros hermanos de una etiqueta que vengan inmediatamente después de otra etiqueta por ejemplo: <br>
 `<h1></h1> <p></p>` .<br><br>
 * `Sintaxis:` etiqueta_1 + etiqueta_2 { atributo: valor; }
@@ -84,7 +92,7 @@ h1 + p {
 
 <br>
 
-## COMBINACIÓN DE SELECTORES
+<a name="8"><h2> COMBINACIÓN DE SELECTORES </h2></a>
 El estilo se aplicará a todos las etiquetas que esten en el selector por ejemplo la etiqueta `<h1>`, `<p>`, `<span>` .<br>
 * `Sintaxis:` etiqueta_1, eqtiqueta_2, etiqueta_3 { atributo: valor; }
 ~~~
