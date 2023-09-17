@@ -1,15 +1,15 @@
 #  :art: COLORES Y FONDOS
 Los valores de los colores se pueden definir mediante su nombre, en código hexadecimal (#RRGGBBAA) o mediante sus valores en los siguientes formatos:
 
-* <a href="#1"> POR SU NOMBRE </a>
-* <a href="#2"> MODELOS </a>
-    * <a href="#3"> RGB </a>
-    * <a href="#4"> HEXADECIMALES </a>
-    * <a href="#5"> HSL </a>
-* <a href="#6"> GRADUACIONES DE COLORES </a>
-* <a href="#7"> OPACIDAD </a>
-    * <a href="#8"> ALPHA </a>
-* <a href="#9"> FONDO </a>
+   * <a href="#1"> POR SU NOMBRE </a>
+   * <a href="#2"> MODELOS </a>
+       * <a href="#3"> RGB </a>
+       * <a href="#4"> HEXADECIMALES </a>
+       * <a href="#5"> HSL </a>
+   * <a href="#6"> GRADUACIONES DE COLORES </a>
+   * <a href="#7"> OPACIDAD </a>
+       * <a href="#8"> ALPHA </a>
+   * <a href="#9"> FONDO </a>
 
 
 <br>
