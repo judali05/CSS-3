@@ -1,30 +1,30 @@
 #  :art: COLORES Y FONDOS
 Los valores de los colores se pueden definir mediante su nombre, en código hexadecimal (#RRGGBBAA) o mediante sus valores en los siguientes formatos:
 
-* <a href=""> POR SU NOMBRE </a>
-* <a href=""> MODELOS </a>
-    * <a href=""> RGB </a>
-    * <a href=""> HEXADECIMALES </a>
-    * <a href=""> HSL </a>
-* <a href=""> GRADUACIONES DE COLORES </a>
-* <a href=""> OPACIDAD </a>
-    * <a href=""> ALPHA </a>
-* <a href=""> FONDO </a>
+* <a href="#1"> POR SU NOMBRE </a>
+* <a href="#2"> MODELOS </a>
+    * <a href="#3"> RGB </a>
+    * <a href="#4"> HEXADECIMALES </a>
+    * <a href="#5"> HSL </a>
+* <a href="#6"> GRADUACIONES DE COLORES </a>
+* <a href="#7"> OPACIDAD </a>
+    * <a href="#8"> ALPHA </a>
+* <a href="#9"> FONDO </a>
 
 
 <br>
 
-<a name=""><h2> POR SU NOMBRE </h2></a>
+<a name="1"><h2> POR SU NOMBRE </h2></a>
 * Recuerda que una forma de añadir color a un elemento es utilizando el nombre del color en inglés, como black ( negro ), cyan ( cian ) o yellow ( amarillo ).
   
 <br>
 
-<a name=""><h2> MODELOS </h2></a>
+<a name="2"><h2> MODELOS </h2></a>
 * Hay dos modelos principales de colores: el modelo aditivo RGB (rojo, verde, azul) utilizado en dispositivos electrónicos, y el modelo sustractivo CMYK (cian, magenta, amarillo, negro) utilizado para impresión.
   
 <br>
 
-<a name=""><h2> RGB </h2></a> 
+<a name="3"><h2> RGB </h2></a> 
 * viene del significa ( Red, Green, Blue ) en español ( Rojo, Verde, Azul ) Cada valor rojo, verde y azul es un número de 0 a 255, 0 significa que hay 0% de ese color, y es negro. 255 significa que hay 100% de ese color.   
 
 <br>
@@ -47,7 +47,7 @@ Los valores de los colores se pueden definir mediante su nombre, en código hexa
 
 <br>
 
-<a name=""><h2> HEXADECIMALES </h2></a> 
+<a name="4"><h2> HEXADECIMALES </h2></a> 
 * Es práctica muy común aplicar color a un elemento CSS con valores hexadecimales (hex). Puede sonar complicado, pero no es más que otra forma de expresar colores RGB.
 
 <br>
@@ -80,7 +80,7 @@ Los valores de los colores se pueden definir mediante su nombre, en código hexa
 
 <br>
 
-<a name=""><h2> HSL </h2></a> 
+<a name="5"><h2> HSL </h2></a> 
 * Otra forma de representar colores es el modelo HSL, siglas de hue, saturation y lightness (matiz, saturación y luminosidad).
 La función CSS hsl acepta 3 valores: un número de 0 a 360 para el tono, un porcentaje de 0 a 100 para la saturación y un porcentaje de 0 a 100 para la luminosidad. 
 
@@ -103,7 +103,7 @@ La saturación es la intensidad de un color desde 0%, o gris, hasta 100% para co
   
 <br>
 
-<a name=""><h2> GRADUACIONES DE COLORES </h2></a>
+<a name="6"><h2> GRADUACIONES DE COLORES </h2></a>
 * Hemos visto unas cuantas maneras de establecer colores planos en CSS, pero también se pueden aplicar transiciones de color, o gradientes, sobre un elemento.
 
 <br>
@@ -151,7 +151,7 @@ La saturación es la intensidad de un color desde 0%, o gris, hasta 100% para co
 
 <br>
 
-<a name=""><h2> OPACIDAD </h2></a>
+<a name="7"><h2> OPACIDAD </h2></a>
 * Opacity describe cuán opaco o no transparente es algo. Por ejemplo, una pared sólida es opaca y no puede pasar la luz. Pero un vaso para beber es mucho más transparente, y puedes ver a través del vaso hacia el otro lado.
 
 <br>
@@ -168,7 +168,7 @@ La saturación es la intensidad de un color desde 0%, o gris, hasta 100% para co
 
 <br>
 
-<a name=""><h2> ALPHA </h2></a>
+<a name="8"><h2> ALPHA </h2></a>
 * Otra forma de establecer la opacidad de un elemento es con el canal alpha. Similar a la propiedad opacity, el canal alfa controla qué tan transparente u opaco es un color.
 
 <br>
@@ -217,7 +217,7 @@ La saturación es la intensidad de un color desde 0%, o gris, hasta 100% para co
 
 <br>
 
-<a name=""><h2> FONDO </h2></a>
+<a name="9"><h2> FONDO </h2></a>
 * Algunas de las propiedades relacionadas con el color y el fondo más utilizadas son las siguientes:
 
 <br>
