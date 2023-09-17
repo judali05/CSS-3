@@ -2,6 +2,8 @@
 Los selectores nos ayudan a indicar el elemento que vamos a modificar. Los selectores pueden apuntar a etiquetas específicos, clases, identificadores o incluso atributos de una etiqueta. <br>
  * Existen muchos tipos de selectores y algunos de los más destacados son los siguientes.
 
+<br>
+
 ## SELECTOR UNIVERSAL
 Este selector se usa cuando deseas aplicar un estilo a todos los elementos sin excepción. Es una forma rápida y sencilla de establecer que afectarán a todos los elementos en el documento.<br>
 * `Sintaxis:` * { atributo: valor; }
@@ -10,9 +12,8 @@ Este selector se usa cuando deseas aplicar un estilo a todos los elementos sin e
 width: 0px;
  }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR DE ETIQUETA
 El estilo se aplicará a todos las etiquetas con el mismo nombre por ejemplo la etiqueta `<h1>` .<br>
@@ -22,9 +23,8 @@ h1 {
   color: blue; 
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR DE CLASE
 El estilo se aplicará a todos las clases con el mismo nombre por ejemplo  `<h1 class="titulo">` . <br>
@@ -34,9 +34,8 @@ El estilo se aplicará a todos las clases con el mismo nombre por ejemplo  `<h1 
 color: blue;
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR IDENTIFICADOR
 El estilo se aplicará a todos los valores ID con el mismo nombre por ejemplo `<p id="texto"> ` . <br> 
@@ -46,9 +45,8 @@ El estilo se aplicará a todos los valores ID con el mismo nombre por ejemplo `<
 color: blue;
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR DESCENDIENTE
 El estilo se aplicará a todas las etiquetas que esten entre las etiquetas de apertura y de cierre del elemeto hijo con el mismo nombre por ejemplo <br>
@@ -59,9 +57,8 @@ div h2 {
   color: blue;
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR DE HIJOS
 El estilo se aplicará a las etiquetas hijo que esten entre las etiquetas de apertura y de cierre del elemeto padre con el mismo nombre por ejemplo <br>
@@ -72,9 +69,8 @@ div > span {
   color: blue;
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## SELECTOR DE HERMANOS ADYACENTES
 El estilo se aplicará a todos los primeros hermanos de una etiqueta que vengan inmediatamente después de otra etiqueta por ejemplo: <br>
@@ -85,9 +81,8 @@ h1 + p {
  color: blue;
 }
 ~~~
-<br>
 
-***
+<br>
 
 ## COMBINACIÓN DE SELECTORES
 El estilo se aplicará a todos las etiquetas que esten en el selector por ejemplo la etiqueta `<h1>`, `<p>`, `<span>` .<br>
