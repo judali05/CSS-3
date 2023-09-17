@@ -8,23 +8,18 @@ En CSS la sintaxis utilizada para agregar diferentes valores a las etiquetas de 
 </div>
 <br>
 
-### `Selector` 
-En este campo se coloca la etiqueta o las etiquetas a las que se le aplican los estilos CSS.
+* `Selector` : En este campo se coloca la etiqueta o las etiquetas a las que se le aplican los estilos CSS.
  
-### `atributo` 
-Aquí se coloca la característica que se va a modificar o cambiar.
+* `atributo` : Aquí se coloca la característica que se va a modificar o cambiar.
 
-### `Valor` 
-Aquí se coloca el valor de la propiedad que se desea modificar o cambiar.
+* `Valor` : Aquí se coloca el valor de la propiedad que se desea modificar o cambiar.
 
-***
+<br>
 
 > [!IMPORTANT]
 >`Comentario` <br>
 >En este lenguaje un comentarios se escribe de la siguiente forma <br>
  `/* (Aquí va lo que se comente) */`
+
 <br>
 <br>
-
-
-
