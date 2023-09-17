@@ -1,14 +1,14 @@
 # :page_with_curl: TIPOS DE SELECTORES 
 Los selectores nos ayudan a indicar el elemento que vamos a modificar. Los selectores pueden apuntar a etiquetas específicos, clases, identificadores o incluso atributos de una etiqueta. <br>
  * Existen muchos tipos de selectores y algunos de los más destacados son los siguientes.
-    * <a href="#1"><h4> SELECTOR UNIVERSAL </h4></a>
-    * <a href="#2"><h4> SELECTOR DE ETIQUETA </h4></a>
-    * <a href="#3"><h4> SELECTOR DE CLASE </h4></a>
-    * <a href="#4"><h4> SELECTOR IDENTIFICADOR </h4></a>
-    * <a href="#5"><h4> SELECTOR DESCENDIENTE </h4></a>
-    * <a href="#6"><h4> SELECTOR DE HIJOS </h4></a>
-    * <a href="#7"><h4> SELECTOR DE HERMANOS ADYACENTES </h4></a>
-    * <a href="#8"><h4> COMBINACIÓN DE SELECTORES </h4></a>
+    * <a href="#1"> SELECTOR UNIVERSAL </a>
+    * <a href="#2"> SELECTOR DE ETIQUETA </a>
+    * <a href="#3"> SELECTOR DE CLASE </a>
+    * <a href="#4"> SELECTOR IDENTIFICADOR </a>
+    * <a href="#5"> SELECTOR DESCENDIENTE </a>
+    * <a href="#6"> SELECTOR DE HIJOS </a>
+    * <a href="#7"> SELECTOR DE HERMANOS ADYACENTES </a>
+    * <a href="#8"> COMBINACIÓN DE SELECTORES </a>
 
 <br>
 
