@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Brayan-Hc11/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" style="width: 120px; height: 120px; margin: 2px;" align="left" >
+<img src="https://github.com/judali05/CSS-3/blob/main/css_logo.png" style="width: 120px; height: 120px; margin: 2px;" align="left" >
 
 <div align="center"><h1> :beginner: CURSO DE CSS3 :beginner: </h1></div>
 
